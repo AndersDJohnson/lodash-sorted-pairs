@@ -2,7 +2,7 @@
   "name": "lodash-sorted-pairs",
   "version": "1.0.0",
   "description": "Get sorted pairs (key, value) from an object using lodash.",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "dependencies": {
     "lodash": "^4.13.1"
   },
