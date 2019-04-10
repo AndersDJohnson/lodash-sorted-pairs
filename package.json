@@ -1,6 +1,6 @@
 {
   "name": "lodash-sorted-pairs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Get sorted pairs (key, value) from an object using lodash.",
   "main": "dist/index.js",
   "dependencies": {
@@ -22,7 +22,7 @@
     "key",
     "value"
   ],
-  "author": "Anders D. Johnson",
+  "author": "Anders D. Johnson (https://andersdjohnson.com)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AndersDJohnson/lodash-sorted-pairs/issues"
